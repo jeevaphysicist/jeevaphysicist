@@ -64,8 +64,8 @@ I'm a Full Stack Solution Architect with a passion for the intersection of desig
 
 ### 📈 GitHub Stats:
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&include_all_commits=true&count_private=true" alt="your-username's github stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="your-username's streak stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevaphysicist&show_icons=true&include_all_commits=true&count_private=true" alt="jeevaphysicist's github stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevaphysicist&" alt="jeevaphysicist's streak stats" />
 </div>
 
 ---
@@ -77,7 +77,7 @@ I'm a Full Stack Solution Architect with a passion for the intersection of desig
 - 👯 I’m looking to collaborate on open source projects related to web development and DevOps.
 - 🤔 I’m looking for help with advanced design patterns in React and performance optimization in NodeJs.
 - 💬 Ask me about anything related to full stack development, especially with React, NodeJs, and MongoDB.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Your Email](mailto:jeevaphysicist@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a big fan of sci-fi movies and often draw inspiration for my projects from them.
 
@@ -86,7 +86,7 @@ I'm a Full Stack Solution Architect with a passion for the intersection of desig
 ### 🌐 Connect with me:
 
 <div>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin-profile" height="30" width="30" /></a>
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jeevanantham--s/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin-profile" height="30" width="30" /></a>
   <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter-handle" height="30" width="30" /></a>
   <a href="https://dev.to/your-devto-profile" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="devto-profile" height="30" width="30" /></a>
 </div>
