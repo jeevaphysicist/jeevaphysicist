@@ -70,6 +70,11 @@ I'm a **Full Stack Solution Architect** with a passion for the intersection of d
 
 ---
 
+Thank you for visiting our GitHub profile. We look forward to collaborating with you and achieving great things together!
+
+![GitHub Followers](https://img.shields.io/github/followers/jeevaphysicist?style=social) ![GitHub Stars](https://img.shields.io/github/stars/jeevaphysicist?style=social)
+
+
 <!--
 **jeevaphysicist/jeevaphysicist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
