@@ -1,13 +1,13 @@
 ### Hi Developers 👋
 
-I'm a Full Stack Solution Architect with a passion for the intersection of design and programming. Over the years, I've had the privilege of collaborating with talented teams on several high-profile websites, honing a diverse skill set that spans both front-end and back-end development.
+I'm a **Full Stack Solution Architect** with a passion for the intersection of design and programming. Over the years, I've had the privilege of collaborating with talented teams on several high-profile websites, honing a diverse skill set that spans both front-end and back-end development.
 
 ---
 
 ### 🏆 Github Profile Trophy
-<div>
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-username&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jeevaphysicist&column=7"/>
   </a>
 </div>
 
@@ -15,7 +15,7 @@ I'm a Full Stack Solution Architect with a passion for the intersection of desig
 
 ### 🛠️ Languages and Tools:
 
-<div>
+<div align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
@@ -58,14 +58,17 @@ I'm a Full Stack Solution Architect with a passion for the intersection of desig
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
     </a>
+    <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
+        <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="40" height="40"/>
+    </a>
 </div>
 
 ---
 
 ### 📈 GitHub Stats:
-<div>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevaphysicist&show_icons=true&include_all_commits=true&count_private=true" alt="jeevaphysicist's github stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevaphysicist&" alt="jeevaphysicist's streak stats" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevaphysicist" alt="jeevaphysicist's streak stats" /> -->
 </div>
 
 ---
@@ -77,7 +80,7 @@ I'm a Full Stack Solution Architect with a passion for the intersection of desig
 - 👯 I’m looking to collaborate on open source projects related to web development and DevOps.
 - 🤔 I’m looking for help with advanced design patterns in React and performance optimization in NodeJs.
 - 💬 Ask me about anything related to full stack development, especially with React, NodeJs, and MongoDB.
-- 📫 How to reach me: [Your Email](mailto:jeevaphysicist@gmail.com)
+- 📫 How to reach me: [Email Me](mailto:jeevaphysicist@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a big fan of sci-fi movies and often draw inspiration for my projects from them.
 
@@ -85,14 +88,13 @@ I'm a Full Stack Solution Architect with a passion for the intersection of desig
 
 ### 🌐 Connect with me:
 
-<div>
-  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jeevanantham--s/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin-profile" height="30" width="30" /></a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter-handle" height="30" width="30" /></a>
-  <a href="https://dev.to/your-devto-profile" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="devto-profile" height="30" width="30" /></a>
+<div align="center">
+  <a href="https://linkedin.com/in/jeevanantham--s" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin-profile" height="30" width="30" /></a>
+  <a href="https://jeevananthamdev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="website" height="30" width="30" /></a>
 </div>
 
 ---
 
 <!--
-**your-username/your-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeevaphysicist/jeevaphysicist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
